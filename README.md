@@ -1,1 +1,1 @@
-# friendly-journey
+# school-journey
