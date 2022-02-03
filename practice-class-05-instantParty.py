@@ -65,7 +65,7 @@ def main():
 
     # Saving display into HTML file
     sys.stdout= open("InstantParty.html","w")
-    print(make_table(2, 3))
+    make_table(2, 3)
     sys.stdout.close()
 
     # Pop-Up of the HTML File
